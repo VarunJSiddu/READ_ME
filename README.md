@@ -1,7 +1,3 @@
-Here’s a professional and versatile `README.md` template tailored for a **developer**. This can be easily customized based on your specialization (e.g., web dev, data science, mobile dev, etc.) and used on GitHub or any code repository to introduce yourself:
-
----
-
 # 👋 Hi, I'm Varun J.S
 
 ## 🚀 About Me
@@ -45,6 +41,3 @@ Here are a few things I've worked on:
 
 > I often speak fluent emoji. 😄🚀🐍
 
----
-
-Let me know if you'd like this adapted to a specific role (e.g., **mobile dev**, **data scientist**, **DevOps engineer**, etc.) or if you want a version tied to a **specific project repo** rather than a personal profile.
